@@ -8,9 +8,9 @@ function Footer(){
         <footer className="main-footer">
             <p>App desenvolvido durante a 2ª ed. do evento <strong>Semana DevSuperior</strong></p>
             <div className="footer-icons">
-                <a href="" target="_new"><Youtube/></a>
-                <a href="" target="_new"><Linkedin/></a>
-                <a href="" target="_new"><Instagram/></a>
+                <a href="/" target="_new"><Youtube/></a>
+                <a href="/" target="_new"><Linkedin/></a>
+                <a href="/" target="_new"><Instagram/></a>
             </div>
         </footer>
     )

@@ -1,5 +1,5 @@
 .home-container {
-    padding-top: 70px;
+    padding-top: 75px;
     height: calc(100vh - 254px);
   }
   
@@ -14,8 +14,8 @@
   
   .home-title {
     font-weight: bold;
-    font-size: 55px;
-    line-height: 58px;
+    font-size: 50px;
+    line-height: 50px;
     letter-spacing: -0.015em;
     color: var(--dark-color);
     margin-bottom: 40px !important;
@@ -23,7 +23,7 @@
   
   .home-subtitle {
     font-weight: normal;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 33px;
     letter-spacing: -0.015em;
     color: var(--secondary-color);
@@ -34,13 +34,13 @@
     background-color: var(--primary-color);
     border-radius: 10px;
     height: 65px;
-    width: 235px;
+    width: 200px;
     display: inline-block;
     display: flex;
     align-items: center;
     justify-content: center;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 18px;
     letter-spacing: -0.015em;
     color: #FFF;
   }
